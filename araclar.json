@@ -1,0 +1,101 @@
+[
+  {
+    "Id": 1,
+    "Plaka": "02 KHG 890",
+    "AracTuru": "Otomobil",
+    "GirisSaati": "2026-05-14T01:44:37.3197333+03:00",
+    "CikisSaati": "2026-05-14T11:47:13.4186215+03:00",
+    "Ucret": 502.1680401138900,
+    "IcerideMi": false
+  },
+  {
+    "Id": 2,
+    "Plaka": "34 BJK 457",
+    "AracTuru": "Otomobil",
+    "GirisSaati": "2026-05-14T11:47:03.9563355+03:00",
+    "CikisSaati": "2026-05-14T11:47:22.8898615+03:00",
+    "Ucret": 0.26296563888888900,
+    "IcerideMi": false
+  },
+  {
+    "Id": 3,
+    "Plaka": "60 FH 276",
+    "AracTuru": "Kamyonet",
+    "GirisSaati": "2026-05-14T12:15:23.1252709+03:00",
+    "CikisSaati": null,
+    "Ucret": 0.0,
+    "IcerideMi": true
+  },
+  {
+    "Id": 4,
+    "Plaka": "34 DG 345",
+    "AracTuru": "Motosiklet",
+    "GirisSaati": "2026-05-14T12:20:55.2191604+03:00",
+    "CikisSaati": "2026-05-14T12:35:04.0695569+03:00",
+    "Ucret": 7.073753304166680,
+    "IcerideMi": false
+  },
+  {
+    "Id": 5,
+    "Plaka": "12 HK 56",
+    "AracTuru": "Motosiklet",
+    "GirisSaati": "2026-05-14T12:25:14.2972736+03:00",
+    "CikisSaati": "2026-05-14T22:16:20.2788208+03:00",
+    "Ucret": 295.54984622666670,
+    "IcerideMi": false
+  },
+  {
+    "Id": 6,
+    "Plaka": "23 HK 56",
+    "AracTuru": "Motosiklet",
+    "GirisSaati": "2026-05-14T12:34:30.6209078+03:00",
+    "CikisSaati": "2026-05-14T13:03:46.2786428+03:00",
+    "Ucret": 14.630481125000010,
+    "IcerideMi": false
+  },
+  {
+    "Id": 7,
+    "Plaka": "34 TYH 356",
+    "AracTuru": "Kamyonet",
+    "GirisSaati": "2026-05-14T13:03:11.6932121+03:00",
+    "CikisSaati": null,
+    "Ucret": 0.0,
+    "IcerideMi": true
+  },
+  {
+    "Id": 8,
+    "Plaka": "43 ASD 564",
+    "AracTuru": "Kamyonet",
+    "GirisSaati": "2026-05-14T13:05:21.2113916+03:00",
+    "CikisSaati": "2026-05-14T13:08:57.0914085+03:00",
+    "Ucret": 4.7973337088888880,
+    "IcerideMi": false
+  },
+  {
+    "Id": 9,
+    "Plaka": "34 TRK 76",
+    "AracTuru": "Motosiklet",
+    "GirisSaati": "2026-05-14T13:06:35.3148744+03:00",
+    "CikisSaati": null,
+    "Ucret": 0.0,
+    "IcerideMi": true
+  },
+  {
+    "Id": 10,
+    "Plaka": "58 EHJ 789",
+    "AracTuru": "Otomobil",
+    "GirisSaati": "2026-05-14T13:08:17.9698137+03:00",
+    "CikisSaati": "2026-05-14T16:45:31.5903179+03:00",
+    "Ucret": 181.02250700277800,
+    "IcerideMi": false
+  },
+  {
+    "Id": 11,
+    "Plaka": "34 COK 567",
+    "AracTuru": "Otomobil",
+    "GirisSaati": "2026-05-14T13:09:29.095067+03:00",
+    "CikisSaati": "2026-05-14T16:46:07.3230153+03:00",
+    "Ucret": 180.53094372638900,
+    "IcerideMi": false
+  }
+]
